@@ -7,10 +7,10 @@ I'm Mehmet Yurdakul — a passionate developer with a strong foundation in web d
 💼 Professionally, I work as a Junior Developer, where I led the refactoring of a legacy Vue 2 system into a modern Vue 3 + TypeScript architecture. I’ve collaborated in Agile teams, implemented CI/CD pipelines, and adhered to modern design standards in large-scale enterprise applications.
 
 🛠️ **Tech Stack**  
-- **Frontend:** Javascript, Vue 2, Vue 3, React, React Native, SCSS, Tailwind CSS  
+- **Frontend:** Javascript, Vue 2, Vue 3, React, React Native, NextJS, SCSS, Tailwind CSS  
 - **Backend:** Node.js, NestJS  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools & Practices:** TypeScript, Git, REST APIs, Docker, Vite,  Agile, CI/CD  
+- **Tools & Practices:** TypeScript, Git, REST APIs, Docker, Vite, Agile, CI/CD  
 
 📚 I'm passionate about continuous learning and team-driven development. I love pair programming, refactoring for clarity, and building tools that elevate user and developer experiences alike.
 
