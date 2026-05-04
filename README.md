@@ -8,7 +8,7 @@ My background combines design, development, and systems thinking. I hold an AP D
 
 ### 💼 Professional Experience
 
-I currently work as a Junior Developer at VML MAP, where I have:
+I currently work as a Junior Developer, where I have:
 
 - Migrated internal applications from Vue 2 to Vue 3 with TypeScript
 - Built and maintained a reusable UI component library
