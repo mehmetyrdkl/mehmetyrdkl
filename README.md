@@ -1,18 +1,37 @@
 ## Hi there 👋
 
-I'm Mehmet Yurdakul — a passionate developer with a strong foundation in web development, software engineering, and human-centered design. My background spans from front-end creativity to modern full-stack engineering practices.
+I'm Mehmet Yurdakul, a Copenhagen-based full-stack software engineer with hands-on experience delivering and maintaining software products in cross-functional agile teams. I focus on building maintainable, production-ready solutions across frontend and backend, with a strong emphasis on ownership, quality, and collaboration.
 
-🚀 I started my journey with an AP Degree in Multimedia Design at KEA and a Top-Up Bachelor's in Web Development at CPH Business, where I developed projects focused on UI/UX, databases, and modern web frameworks. These formative years gave me a love for building user-centric and scalable digital products.
+### 🚀 About Me
 
-💼 Professionally, I work as a Junior Developer, where I led the refactoring of a legacy Vue 2 system into a modern Vue 3 + TypeScript architecture. I’ve collaborated in Agile teams, implemented CI/CD pipelines, and adhered to modern design standards in large-scale enterprise applications.
+My background combines design, development, and systems thinking. I hold an AP Degree in Multimedia Design from KEA and a Bachelor’s degree in Web Development from Copenhagen Business Academy, and I am currently pursuing a Master of Science in Information Studies at Aalborg University. This path has given me a strong foundation in user-centered development, web technologies, databases, and digital product design.
 
-🛠️ **Tech Stack**  
-- **Frontend:** Javascript, Vue 2, Vue 3, React, React Native, NextJS, SCSS, Tailwind CSS  
-- **Backend:** Node.js, NestJS  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & Practices:** TypeScript, Git, REST APIs, Docker, Vite, Agile, CI/CD  
+### 💼 Professional Experience
 
-📚 I'm passionate about continuous learning and team-driven development. I love pair programming, refactoring for clarity, and building tools that elevate user and developer experiences alike.
+I currently work as a Junior Developer at VML MAP, where I have:
 
-🌍 Always open to collaboration on innovative, impactful projects — especially those involving web apps, data-driven tools, and UI/UX improvements.
+- Migrated internal applications from Vue 2 to Vue 3 with TypeScript
+- Built and maintained a reusable UI component library
+- Supported production systems through monitoring, troubleshooting, and structured error handling
+- Implemented Result Pattern-based error handling in C#/.NET, reducing Azure Application Insights by 80%
+- Worked with REST APIs, cloud-based workflows, and modern delivery practices
 
+### 🛠️ Tech Stack
+
+- **Frontend:** TypeScript, JavaScript, Vue.js, React, Next.js, React Native, Expo, Pinia, Composition API, SCSS, Tailwind CSS
+- **Backend:** C#/.NET, Node.js, NestJS, Python
+- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
+- **Tools and Practices:** REST APIs, Git, GitHub, GitHub Actions, Azure DevOps, Docker, Kubernetes, FluxCD, Terraform, IaC, CI/CD, Agile, Linux
+
+### 📚 What I Enjoy
+
+- Pair programming
+- Code reviews
+- Refactoring for clarity
+- Improving developer workflows
+- Solving practical problems
+- Building software that is reliable, scalable, and easy to maintain
+
+### 🌍 Open To
+
+I am always open to collaborating on meaningful projects, especially those involving full-stack development, production systems, internal tools, and user-focused digital products.
