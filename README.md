@@ -1,37 +1,85 @@
 ## Hi there 👋
 
-I'm Mehmet Yurdakul, a Copenhagen-based full-stack software engineer with hands-on experience delivering and maintaining software products in cross-functional agile teams. I focus on building maintainable, production-ready solutions across frontend and backend, with a strong emphasis on ownership, quality, and collaboration.
+I'm Mehmet-Hüseyin Yurdakul, a Copenhagen-based Software Engineer and Full-Stack Developer with 3+ years of professional experience building, modernizing, and supporting software products in cross-functional agile teams.
+
+I enjoy working across the stack, from frontend architecture and reusable component systems to backend APIs, integrations, production troubleshooting, and developer tooling. I care about building software that is maintainable, reliable, and practical.
 
 ### 🚀 About Me
 
-My background combines design, development, and systems thinking. I hold an AP Degree in Multimedia Design from KEA and a Bachelor’s degree in Web Development from Copenhagen Business Academy, and I am currently pursuing a Master of Science in Information Studies at Aalborg University. This path has given me a strong foundation in user-centered development, web technologies, databases, and digital product design.
+My background combines software development, digital design, and user-focused product development. I hold a B.Sc. in Web Development from Copenhagen Business Academy and an AP Degree in Multimedia Design from KEA – Copenhagen School of Design and Technology.
+
+This combination has given me a strong foundation across frontend and backend development, UX/UI, databases, web technologies, and digital product development.
 
 ### 💼 Professional Experience
 
-I currently work as a Junior Developer, where I have:
+I currently work as a Developer at VML MAP, where I work across frontend and backend systems and contribute throughout the software development lifecycle.
 
-- Migrated internal applications from Vue 2 to Vue 3 with TypeScript
-- Built and maintained a reusable UI component library
-- Supported production systems through monitoring, troubleshooting, and structured error handling
-- Implemented Result Pattern-based error handling in C#/.NET, reducing Azure Application Insights by 80%
-- Worked with REST APIs, cloud-based workflows, and modern delivery practices
+Some of the things I've worked on include:
+
+* Rebuilding internal applications from Vue 2 to Vue 3 with TypeScript
+* Leading the redesign of frontend foundations around a reusable component architecture
+* Building and maintaining reusable UI component libraries
+* Developing API integrations and reusable .NET client libraries from scratch
+* Implementing Result Pattern-based error handling in C#/.NET, reducing Azure Application Insights noise by 80%
+* Integrating REST APIs and supporting production systems through monitoring, troubleshooting, and root-cause analysis
+* Contributing to CI/CD, code reviews, pair programming, sprint planning, and retrospectives
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** TypeScript, JavaScript, Vue.js, React, Next.js, React Native, Expo, Pinia, Composition API, SCSS, Tailwind CSS
-- **Backend:** C#/.NET, Node.js, NestJS, Python
-- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
-- **Tools and Practices:** REST APIs, Git, GitHub, GitHub Actions, Azure DevOps, Docker, Kubernetes, FluxCD, Terraform, IaC, CI/CD, Agile, Linux
+**Frontend**
 
-### 📚 What I Enjoy
+* TypeScript
+* JavaScript
+* Vue.js
+* React
+* Next.js
+* React Native
+* Expo
+* Pinia
+* Composition API
 
-- Pair programming
-- Code reviews
-- Refactoring for clarity
-- Improving developer workflows
-- Solving practical problems
-- Building software that is reliable, scalable, and easy to maintain
+**Backend**
+
+* C# / .NET
+* Node.js
+* NestJS
+* Python
+* REST APIs
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
+
+**DevOps & Cloud**
+
+* Docker
+* Kubernetes
+* Azure DevOps
+* GitHub
+* FluxCD
+* Terraform
+* Linux
+* CI/CD
+* Infrastructure as Code
+
+### 🧩 Engineering
+
+Things I particularly enjoy:
+
+* Designing reusable systems and abstractions
+* Refactoring legacy applications
+* Building APIs and integrations
+* Improving developer experience
+* Debugging and troubleshooting production systems
+* Code reviews and pair programming
+* Writing maintainable, understandable code
+* Turning complex problems into practical solutions
 
 ### 🌍 Open To
 
-I am always open to collaborating on meaningful projects, especially those involving full-stack development, production systems, internal tools, and user-focused digital products.
+I'm interested in opportunities where I can work on challenging software problems, take ownership of meaningful systems, and contribute across the stack.
+
+I'm particularly interested in full-stack engineering, developer infrastructure, APIs and integrations, production systems, and products where engineering quality has a direct impact on the user experience.
